@@ -1,7 +1,9 @@
 # UTS_PemogramanWeb
-#Nama  : Edwin Firmansyah Hamid
-#Kelas   : TI.19.F1
-#NIM     : 311910420
+Nama  : Edwin Firmansyah Hamid
+
+Kelas   : TI.19.F1
+
+NIM     : 311910420
 
 UTS PEMOGRAMAN WEB
 
