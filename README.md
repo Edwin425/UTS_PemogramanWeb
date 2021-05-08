@@ -26,5 +26,13 @@ Tampilan Menu :
 
 ![image](https://user-images.githubusercontent.com/77254428/117525266-95c7b280-afeb-11eb-9c85-e23dd616dd97.png)
 
+
+Codingannya :
+
+![image](https://user-images.githubusercontent.com/77254428/117525324-da534e00-afeb-11eb-8002-1e566cfb8551.png)
+
+![image](https://user-images.githubusercontent.com/77254428/117525330-e93a0080-afeb-11eb-8edf-0d2653caaa04.png)
+
+
  
 
